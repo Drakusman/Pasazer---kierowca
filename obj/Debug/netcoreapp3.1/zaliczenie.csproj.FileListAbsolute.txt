@@ -1,0 +1,13 @@
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\bin\Debug\netcoreapp3.1\zaliczenie.exe
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\bin\Debug\netcoreapp3.1\zaliczenie.deps.json
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\bin\Debug\netcoreapp3.1\zaliczenie.runtimeconfig.json
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\bin\Debug\netcoreapp3.1\zaliczenie.runtimeconfig.dev.json
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\bin\Debug\netcoreapp3.1\zaliczenie.dll
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\bin\Debug\netcoreapp3.1\zaliczenie.pdb
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.csprojAssemblyReference.cache
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.AssemblyInfoInputs.cache
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.AssemblyInfo.cs
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.csproj.CoreCompileInputs.cache
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.dll
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.pdb
+D:\Pulpit\zaliczenie\zaliczenie\zaliczenie\obj\Debug\netcoreapp3.1\zaliczenie.genruntimeconfig.cache
